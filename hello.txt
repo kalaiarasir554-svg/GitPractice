@@ -1,1 +1,3 @@
 hello git
+git status
+I am learning Git and GitHub
