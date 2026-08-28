@@ -1,0 +1,14 @@
+Release Version: v1.0
+Environment: Pre-Production
+Module: Login
+
+Release Notes:
+
+1. Login functionality implemented.
+2. Username validation implemented.
+3. Password validation implemented.
+4. Logout functionality implemented.
+
+QA Requirement:
+
+Test the Login module and verify the above functionality.
